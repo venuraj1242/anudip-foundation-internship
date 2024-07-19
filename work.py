@@ -256,24 +256,3 @@ list = [10, 20, 30, 40, 50, 60, 70, 80, 90]
 #     print(t[n - i - 1],end=',')
 # print("\n")
 
-# #dictionary
-# stu={'stdid':'std101','stdname':'ashish kumar','standard': '10th', 'age':15}
-# print(stu)
-# # insert elements in dictionary 
-
-# stu['stdid']='std102'
-# print(stu)
-
-# # insert an elememnts with key standard 
-
-# stu ['standard']= '12th'
-
-# # insert elements withkey hindi
-
-# stu['hindi']=78
-# print(stu)
-
-# # retrieve value of dic 
-
-# for key  in stu:
-#     print(key ,":",stu[key])

@@ -22,3 +22,4 @@ for key  in stu:
    
     
 print("marks of hindi:",stu['hindi'])
+
