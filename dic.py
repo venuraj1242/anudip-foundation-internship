@@ -22,7 +22,4 @@ for key  in stu:
    
     
 print("marks of hindi:",stu['hindi'])
-<<<<<<< HEAD
 
-=======
->>>>>>> 453073cb6cbbdf14426e99d4f3ca12fd9d7c0375
