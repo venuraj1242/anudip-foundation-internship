@@ -1,5 +1,5 @@
 
-# itereation
+#itereation
 
 for x in [80,99,90,50,30,40,50,302,200]:
     print(x)
