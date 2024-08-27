@@ -1,0 +1,21 @@
+customer_id,name,age,gender,city,product_category,purchase_amount,purchase_date
+0,John Smith,42,Male,New York,Electronics,123,15-02-2023
+1,Jane Doe,25,Female,New York,Clothing,275,07-08-2023
+2,Alice Johnson,38,Female,Chicago,Books,345,22-05-2023
+3,John Doe,35,Male,Houston,Electronics,412,10-11-2023
+4,Jane Smith,52,Female,Phoenix,Clothing,167,28-03-2023
+5,Alice Johnson,28,Female,New York,Books,298,13-07-2023
+6,John Doe,47,Male,Los Angeles,Electronics,376,21-09-2023
+7,Jane Smith,31,Female,Chicago,Clothing,453,04-01-2023
+8,Alice Johnson,60,Female,Houston,Books,182,06-12-2023
+9,John Doe,22,Male,Houston,Electronics,321,17-04-2023
+10,Jane Smith,48,Female,Houston,Clothing,246,25-06-2023
+11,Alice Johnson,33,Female,Los Angeles,Books,397,08-10-2023
+12,John Doe,55,Male,Chicago,Electronics,154,01-02-2023
+13,Jane Smith,27,Female,Houston,Clothing,438,16-08-2023
+14,Alice Johnson,62,Female,Phoenix,Books,171,22-12-2023
+15,John Doe,37,Male,New York,Electronics,319,11-05-2023
+16,Jane Smith,50,Female,Los Angeles,Clothing,235,29-07-2023
+17,Alice Johnson,36,Female,Chicago,Books,384,15-11-2023
+18,John Doe,24,Male,Houston,Electronics,402,30-03-2023
+19,Jane Smith,53,Female,Phoenix,Clothing,163,12-01-2023
